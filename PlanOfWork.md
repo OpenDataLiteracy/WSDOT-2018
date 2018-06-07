@@ -38,7 +38,19 @@ The goal of this project is to conduct initial work to help WSDOT improve access
 **Plan for Sustainability**       
 All deliverables and work materials will be stored on WSDOT-manganed enviroments and accessed via WSDOT tools (e.g a WSDOT-issued laptop computer or desktop computer at a WSDOT-managed facility.) This will help streamline collaboration, handoff pf project deliverables, and sustainability. It will also aid in compliance with the State of Washington ethics and workplace conduct rules, a requirement of the project. 
 
-The products from this project will be used by WSDOT's Records and Information Manamgent Office, along with an IT technical team to develop a plan for proactive processing of public disclosure material 
+The products from this project will be used by WSDOT's Records and Information Manamgent Office, along with an IT technical team to develop a plan for proactive processing of public disclosure requests, to aid in creation of processes for Records Management, and use cases for further work on the DOTS Application. The DOTS application has decicated support funding which allows ongoing maintenance and improvement of the code; thus, WSDOT has the practical ability to apply lessons learned in this project.  
 
-**Milestones**    
+**Milestones**  
+
+| **Deliverable**  | **Dates** | **Notes** |
+| -----------------| ----------|-----------|
+| Project Start | June 11, 2018 |          |
+| Document Identification  | June 22, 2018 ||
+| Process Improvement | July 6, 2018 |      |
+| Techniques to Apply Prior Results | July 13, 2018 | Can be done in parallel with Deliverable No.2 |
+| Evaluation of Applicability of Previously Proposed Metadata Schema | July 20, 2018 | |
+| Implementation Recommendation | July 27, 2018 ||
+| Final Report | August 3, 2018 | The Olympia presentation should occur on July 31 or Aug 1 of 2 |
+| Project End | August 3, 2018 | |
+
 Create a general timeline for completing each of the deliverables that you listed above. After you have settled on a timeline with feedback from your mentor, you should enter these as `Milestones` in Github's `Issues` tracker. Each task that you perform or plan to perform can then be files as an issue that is attached to a specific milestone.
