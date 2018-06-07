@@ -1,31 +1,44 @@
 ---
 Title: Plan of work
-Date: 04.24.2018
+Date: 05.31.2018
 ---
 
 # Project Title
 
 **Description**   
-In three to five sentences describe the project, sponsor, and relevant information about the summer internship you will be working on. Be sure to include a sentence about the key stakeholders that will be served. 
+I, Angela Gonzalez-Curci, Open Data Literacy (ODL) intern, will aasist the Washington State Department of Transportation with defining techniques to identify and proactively release data and documents that are commonly requested through the Public Disclosure Request (PDR) process and with identifying opportunties for building upon existing systems to facilitate safe public disclosure. The work will be done in collaboration with WSDOT Record Managment, IT Inforamtion Managment, and the WSDOT Library.
+
+This work will build upon previous UW Open Data intern work at WSDOT by continuing to work with the IT Data Catalog metadata system to identify disclosable datasets as well as working with an exisiting Public Disclousre Request database to identify repreatedly disclosed document sets for  publication. I will also invesitgate and propose extensions, revisions, or processes for Records Managment, the WSDOT Library, and WSDOT's Data Catalog to accommedate proactive processing of public interest and discloseable content.
 
 **Goals**     
-What is this project supposed to achieve, and why?
+The goal of this project is to conduct initial work to help WSDOT improve access to public reocrds by identifying recodes that contain little to no sensitive information and are frequently requested.  
 
-- Goal 1
-- Goal 2
+1. Review Responces to PRDs to access the frequency of redaction needed to avoid exposing senstive information. 
+2. Develop a practice to publish commonly rewuested data that does _not_ require redaction. This includes responces to PDRs and     proactively publishing data and information that is commonly requested. 
+3. Develop implementation practice (publication and curation) that:
+    * Minimize risk of disclosing secure data 
+    * Support findability and accessibility for users 
+    * Are rooted in agency information management principles, policies, and practices 
+    * Integrate recommendations for the previous ODL internship:
+      * Apply propsed metadata elements to facilitate documentation of open data sets and support findability 
+
 
 **Deliverables**    
-What will this project produce? This should include items like reports, best practices, software, data, metadata schemas, models or figures, and documentation. See the two types of deliverables below: 
 
 *Interim*     
-- Deliverables that will be completed throughout the project
+1. **Document Identification:** A heuristic, queryset, or technique for identifying commonly requested document sets from the Public Disclosure Request database.
+2. **Process Improvement:** Proposed process techniques for risk assessment of sensitive data in datasetes for documents; ans subsequent publication process (e.g., via appropriate committee reviews) for non-senstive datasets based on risk assessment. 
+3. **Techniques to Apply Prior Results:** Propose techniques for applying previously created metadata attributes and procedures to catalog data, enable proactive disclosure, and improve public discovery of available data. 
+4. **Evaluation of Applicability of Previously Proposed Metadata Schema:** Reults of testing previously proposed metadata attribute for opem,structured  data to determine applicability for unstructured data. 
+5. **Implementation Recomendations:** Recommendations for implemtation of proposed procedures/techniques 
 
 *End of project*
-- A Final deliverable that will be completed at the end of the project (Many interim deliverables will likely add up to a final deliverable)
-
+* **Final Report:** Provide a presentation of finding to WSDOT business units in Olympia. Based om knowledge gleaned from the analysis, the final report will also highlight implications regarding data literacy and open data and recommend potential next steps based on open data best practices and a list or records that are strong candiates for publication. 
 
 **Plan for Sustainability**       
-Describe how you will manage deliverables during the project and the plan for handing over, and sustaining deliverables over time. We require that all internships create open documentation and update their plans for sustainability regularly.
+All deliverables and work materials will be stored on WSDOT-manganed enviroments and accessed via WSDOT tools (e.g a WSDOT-issued laptop computer or desktop computer at a WSDOT-managed facility.) This will help streamline collaboration, handoff pf project deliverables, and sustainability. It will also aid in compliance with the State of Washington ethics and workplace conduct rules, a requirement of the project. 
+
+The products from this project will be used by WSDOT's Records and Information Manamgent Office, along with an IT technical team to develop a plan for proactive processing of public disclosure material 
 
 **Milestones**    
 Create a general timeline for completing each of the deliverables that you listed above. After you have settled on a timeline with feedback from your mentor, you should enter these as `Milestones` in Github's `Issues` tracker. Each task that you perform or plan to perform can then be files as an issue that is attached to a specific milestone.
