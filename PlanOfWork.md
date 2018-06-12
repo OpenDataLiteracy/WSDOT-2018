@@ -29,7 +29,7 @@ The goal of this project is to conduct initial work to help WSDOT improve access
 1. **Document Identification:** A heuristic, queryset, or technique for identifying commonly requested document sets from the Public Disclosure Request database.
 2. **Process Improvement:** Proposed process techniques for risk assessment of sensitive data in datasetes for documents; ans subsequent publication process (e.g., via appropriate committee reviews) for non-senstive datasets based on risk assessment. 
 3. **Techniques to Apply Prior Results:** Propose techniques for applying previously created metadata attributes and procedures to catalog data, enable proactive disclosure, and improve public discovery of available data. 
-4. **Evaluation of Applicability of Previously Proposed Metadata Schema:** Reults of testing previously proposed metadata attribute for opem,structured  data to determine applicability for unstructured data. 
+4. **Evaluation of Applicability of Previously Proposed Metadata Schema:** Reults of testing previously proposed metadata attribute for open ,structured  data to determine applicability for unstructured data. 
 5. **Implementation Recomendations:** Recommendations for implemtation of proposed procedures/techniques 
 
 *End of project*
