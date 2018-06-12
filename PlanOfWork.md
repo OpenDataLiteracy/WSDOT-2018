@@ -44,13 +44,13 @@ The products from this project will be used by WSDOT's Records and Information M
 
 | **Deliverable**  | **Dates** | **Notes** |
 | -----------------| ----------|-----------|
-| Project Start | June 11, 2018 |          |
-| Document Identification  | June 22, 2018 ||
-| Process Improvement | July 6, 2018 |      |
-| Techniques to Apply Prior Results | July 13, 2018 | Can be done in parallel with Deliverable No.2 |
-| Evaluation of Applicability of Previously Proposed Metadata Schema | July 20, 2018 | |
-| Implementation Recommendation | July 27, 2018 ||
-| Final Report | August 3, 2018 | The Olympia presentation should occur on July 31 or Aug 1 of 2 |
-| Project End | August 3, 2018 | |
+| Project Start | June 18, 2018 |          |
+| Document Identification  | June 29, 2018 ||
+| Process Improvement | July 13, 2018 |      |
+| Techniques to Apply Prior Results | July 20, 2018 | Can be done in parallel with Deliverable No.2 |
+| Evaluation of Applicability of Previously Proposed Metadata Schema | July 27, 2018 | |
+| Implementation Recommendation | August 3, 2018 ||
+| Final Report | August 10, 2018 | The Olympia presentation should occur on Aug 7, 8, or 9 |
+| Project End | August 10, 2018 | |
 
 Create a general timeline for completing each of the deliverables that you listed above. After you have settled on a timeline with feedback from your mentor, you should enter these as `Milestones` in Github's `Issues` tracker. Each task that you perform or plan to perform can then be files as an issue that is attached to a specific milestone.
