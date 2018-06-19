@@ -8,10 +8,10 @@ Date: 05.31.2018
 **Description**   
 I, Angela Gonzalez-Curci, Open Data Literacy (ODL) intern, will aasist the Washington State Department of Transportation with defining techniques to identify and proactively release data and documents that are commonly requested through the Public Disclosure Request (PDR) process and with identifying opportunties for building upon existing systems to facilitate safe public disclosure. The work will be done in collaboration with WSDOT Record Managment, IT Inforamtion Managment, and the WSDOT Library.
 
-This work will build upon previous UW Open Data intern work at WSDOT by continuing to work with the IT Data Catalog metadata system to identify disclosable datasets as well as working with an exisiting Public Disclousre Request database to identify repreatedly disclosed document sets for  publication. I will also invesitgate and propose extensions, revisions, or processes for Records Managment, the WSDOT Library, and WSDOT's Data Catalog to accommedate proactive processing of public interest and discloseable content.
+This work will build upon previous UW Open Data intern work at WSDOT by continuing to work with the IT Data Catalog metadata system to identify disclosable datasets as well as working with an exisiting Public Disclousre Request database to identify repeatedly disclosed document sets for publication. I will also invesitgate and propose extensions, revisions, or processes for Records Managment, the WSDOT Library, and WSDOT's Data Catalog to accommedate proactive processing of public interest and discloseable content.
 
 **Goals**     
-The goal of this project is to conduct initial work to help WSDOT improve access to public reocrds by identifying recodes that contain little to no sensitive information and are frequently requested.  
+The goal of this project is to conduct initial work to help WSDOT improve access to public records by identifying recodes that contain little to no sensitive information and are frequently requested.  
 
 1. Review Responces to PRDs to access the frequency of redaction needed to avoid exposing senstive information. 
 2. Develop a practice to publish commonly rewuested data that does _not_ require redaction. This includes responces to PDRs and     proactively publishing data and information that is commonly requested. 
@@ -27,7 +27,7 @@ The goal of this project is to conduct initial work to help WSDOT improve access
 
 *Interim*     
 1. **Document Identification:** A heuristic, queryset, or technique for identifying commonly requested document sets from the Public Disclosure Request database.
-2. **Process Improvement:** Proposed process techniques for risk assessment of sensitive data in datasetes for documents; ans subsequent publication process (e.g., via appropriate committee reviews) for non-senstive datasets based on risk assessment. 
+2. **Process Improvement:** Proposed process techniques for risk assessment of sensitive data in datasetes for documents; and subsequent publication process (e.g., via appropriate committee reviews) for non-senstive datasets based on risk assessment. 
 3. **Techniques to Apply Prior Results:** Propose techniques for applying previously created metadata attributes and procedures to catalog data, enable proactive disclosure, and improve public discovery of available data. 
 4. **Evaluation of Applicability of Previously Proposed Metadata Schema:** Results of testing previously proposed metadata attribute for open, structured  data to determine applicability for unstructured data. 
 5. **Implementation Recomendations:** Recommendations for implemtation of proposed procedures/techniques 
